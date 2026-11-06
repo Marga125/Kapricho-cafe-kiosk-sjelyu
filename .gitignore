@@ -12,3 +12,4 @@ desktop.ini
 *.db-shm
 *.db-wal
 *.db-journal
+package.json
